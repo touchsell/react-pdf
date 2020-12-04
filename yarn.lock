@@ -3442,17 +3442,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"enzyme-shallow-equal@npm:^1.0.1":
-  version: 1.0.1
-  resolution: "enzyme-shallow-equal@npm:1.0.1"
-  dependencies:
-    has: ^1.0.3
-    object-is: ^1.0.2
-  checksum: b7a5d210ddaf23b76da5f4f46a811c2c2d9e9d131147d2bae3b0fcbd42e3ed4dc5cb465bbbdcba4ba88c720d945e9de7a9244f30952c562114d7b0ff458fc0aa
-  languageName: node
-  linkType: hard
-
-"enzyme-shallow-equal@npm:^1.0.4":
+"enzyme-shallow-equal@npm:^1.0.1, enzyme-shallow-equal@npm:^1.0.4":
   version: 1.0.4
   resolution: "enzyme-shallow-equal@npm:1.0.4"
   dependencies:
@@ -4734,14 +4724,7 @@ fsevents@^2.1.2:
   languageName: node
   linkType: hard
 
-"is-callable@npm:^1.1.4, is-callable@npm:^1.1.5, is-callable@npm:^1.2.0":
-  version: 1.2.0
-  resolution: "is-callable@npm:1.2.0"
-  checksum: 8a5e68b7c3a95159c98595789015da72e71432e638c4bc0aad4722ea6a1ffeca178838cfb6012f5b9cc1a8c61b737704bd658d8f588959a46a899961667e99f5
-  languageName: node
-  linkType: hard
-
-"is-callable@npm:^1.2.2":
+"is-callable@npm:^1.1.4, is-callable@npm:^1.1.5, is-callable@npm:^1.2.0, is-callable@npm:^1.2.2":
   version: 1.2.2
   resolution: "is-callable@npm:1.2.2"
   checksum: c35d37cc46c997d6417d7254733c8a3b1146f18121197c5600f601c56fb27abd1b372b0b9c41ea9a69d30556a2a0fd85e396da8eb8bc4af2e5ad8c5232fcd433
@@ -4932,16 +4915,7 @@ fsevents@^2.1.2:
   languageName: node
   linkType: hard
 
-"is-regex@npm:^1.0.5, is-regex@npm:^1.1.0":
-  version: 1.1.0
-  resolution: "is-regex@npm:1.1.0"
-  dependencies:
-    has-symbols: ^1.0.1
-  checksum: 8fe7ae8c060ff831660be439c17a39dadc97c950d2636634f27db83b6a048695b1c46d304ba8a77efe906fb20c99755fdf4a1f628fcf75de3cdcbb687096bdaa
-  languageName: node
-  linkType: hard
-
-"is-regex@npm:^1.1.1":
+"is-regex@npm:^1.0.5, is-regex@npm:^1.1.0, is-regex@npm:^1.1.1":
   version: 1.1.1
   resolution: "is-regex@npm:1.1.1"
   dependencies:
@@ -6458,28 +6432,14 @@ fsevents@^2.1.2:
   languageName: node
   linkType: hard
 
-"object-inspect@npm:^1.7.0":
-  version: 1.7.0
-  resolution: "object-inspect@npm:1.7.0"
-  checksum: 9f479ca1002fedbf4e1c5dec908477d1a7a2dd4466af0b4cf5886d269db54d8310544dfb7670a17a4c5d6a7a3dd3c346be38ea6b3541330551900a3134dec662
-  languageName: node
-  linkType: hard
-
-"object-inspect@npm:^1.8.0":
+"object-inspect@npm:^1.7.0, object-inspect@npm:^1.8.0":
   version: 1.8.0
   resolution: "object-inspect@npm:1.8.0"
   checksum: 4da23a188b3811d75fcd6e7916471465f94e4752159e064f9621040945d375dca1afa092a000a398267d81b4f40bf33cfdbe1e99eff98f1972155efe055f80c8
   languageName: node
   linkType: hard
 
-"object-is@npm:^1.0.2":
-  version: 1.0.2
-  resolution: "object-is@npm:1.0.2"
-  checksum: bfca79b02f48565ba89881d122e88a1ae5dedd308f3017c4cbc2f9a09e118af98c4069076722ec9412fc79886774c51df779068aae06f3f10012945cbb25bec3
-  languageName: node
-  linkType: hard
-
-"object-is@npm:^1.1.2":
+"object-is@npm:^1.0.2, object-is@npm:^1.1.2":
   version: 1.1.3
   resolution: "object-is@npm:1.1.3"
   dependencies:
@@ -7079,14 +7039,7 @@ fsevents@^2.1.2:
   languageName: node
   linkType: hard
 
-"react-is@npm:^16.12.0, react-is@npm:^16.8.1, react-is@npm:^16.8.6":
-  version: 16.13.0
-  resolution: "react-is@npm:16.13.0"
-  checksum: 122f38efe00aca3f8c391a90513cb5e2ef2710db164730c9c6125f2f089b5cd413f22669e06606c5d84df08086c9a6b50fae90efa532baa82bc3a7c5c3b8b5da
-  languageName: node
-  linkType: hard
-
-"react-is@npm:^16.13.1":
+"react-is@npm:^16.12.0, react-is@npm:^16.13.1, react-is@npm:^16.8.1, react-is@npm:^16.8.6":
   version: 16.13.1
   resolution: "react-is@npm:16.13.1"
   checksum: 11bcf1267a314a522615f626f3ce3727a3a24cdbf61c4d452add3550a7875326669631326cfb1ba3e92b6f72244c32ffecf93ad21c0cad8455d3e169d0e3f060
